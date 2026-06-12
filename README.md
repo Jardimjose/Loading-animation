@@ -16,5 +16,5 @@ You can see a live demo of the animation here:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/jardimjose/Loading-animation.git](https://github.com/jardimjose/Loading-animation.git)
+   git clone <REPO URL>
    ```

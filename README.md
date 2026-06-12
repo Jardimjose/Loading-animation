@@ -1,4 +1,20 @@
-## Simple Loading Screen
+# Loading Animation
 
-This was a simple project aimed at creating a minimalistic loading screen animation using css. 
+A simple loading animation built using HTML and CSS. 
 
+## Preview
+
+You can see a live demo of the animation here:
+[View Preview on GitHub Pages](https://jardimjose.github.io/Loading-animation/)
+
+## Features
+- CSS animation
+- Lightweight 
+- Easy to integrate into web projects
+
+## Usage
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/jardimjose/Loading-animation.git](https://github.com/jardimjose/Loading-animation.git)
+   ```
